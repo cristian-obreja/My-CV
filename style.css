@@ -1,0 +1,27 @@
+.background {
+  background-image: url("./matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.avif");
+  background-size: cover;
+}
+.display-2 {
+  font-family: "DM Sans", sans-serif;
+}
+.profile-img {
+  border-radius: 50%;
+  height: 250px;
+  width: 200px;
+}
+.row {
+  text-align: center;
+}
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+}
+.bi {
+  height: 30px;
+  width: 30px;
+}
+.study {
+  text-decoration: none;
+}
